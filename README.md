@@ -34,3 +34,40 @@ In .NET Framework for web development, the ASP.NET Webforms can be used. Webform
 ![](Screenshots/2%20Read/ReadOp2.png)
 
 # UPDATE
+1- We can updates the records by clicking on Edit link present on DisplayEmpDetails.aspx, here it redirects to EditEmpDetails.aspx after taking the ID of the record we have clicked on
+
+![](Screenshots/3%20Update/UpdateOp.png)
+
+2- We can update on the attributes related to that record here, for example I have updated the Salary here from 40000 to 80000
+
+![](Screenshots/3%20Update/UpdateOp2.png)
+
+3- After clicking Update button, we can clearly see that the change has reflected back in the database
+
+![](Screenshots/3%20Update/UpdateOp3.png)
+
+4- On clicking Display on WebForm1.aspx
+
+![](Screenshots/2%20Read/ReadOp2.png)
+
+# DELETE
+1- Any record can be deleted, after clicking on Edit link on DisplayEmpDetails.aspx
+
+![](Screenshots/4%20Delete/DeleteOp.png)
+
+2- I clicked on the Edit link of 3rd record, EditEmpDetails.aspx opens, here we can clearly see the Delete button, after clicking on it, the record will get deleted
+
+![](Screenshots/4%20Delete/DeleteOp2.png)
+
+3- Now, after we go and click on Display, the 3rd record is not visible and has got deleted
+
+![](Screenshots/4%20Delete/DeleteOp3.png)
+
+# SEARCH
+1- I also made one Search record button, which searches any record on the basis of ID given, for example I give ID as 2 here
+
+![](Screenshots/5%20Search/SearchOp.png)
+
+2- Details of record on ID = 2 is displayed
+
+![](Screenshots/5%20Search/SearchOp2.png)
