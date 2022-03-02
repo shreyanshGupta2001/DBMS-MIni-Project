@@ -10,3 +10,27 @@ In .NET Framework for web development, the ASP.NET Webforms can be used. Webform
 2) .cs file where the back-end is written in C# language.
 
 # Screenshots
+
+# CREATE
+1- Creating a record
+
+![](Screenshots/1%20Create/CreateOp.png)
+
+2- After Clicking Submit Button
+
+![](Screenshots/1%20Create/CreateOp2.png)
+
+3- Record has been created in the MS Sql Server Management
+
+![](Screenshots/1%20Create/CreateOp3.png)
+
+# READ
+1- Clicking the Display Button on WebForm1.aspx
+
+![](Screenshots/2%20Read/ReadOp.png)
+
+2- Records present in the database are visible on DisplayEmpDetails.aspx
+
+![](Screenshots/2%20Read/ReadOp2.png)
+
+# UPDATE
