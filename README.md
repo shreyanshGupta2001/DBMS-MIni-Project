@@ -1,5 +1,5 @@
 # Back end Practice Project: Employee CRUD Web Application
-I made this project when I first started learning the Back-end in Web Development on ASP.NET.
+I made this project when I first started learning the Back-end programming in Web Development on ASP.NET.
 
 I decided to make myself familiar with basic Back-end operations like Create, Read, Update, Delete and decided to make this very bare Back-end Project. There is no CSS is used in this .NET Framework project, only the basic HTML table is used here.
 
