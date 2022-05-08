@@ -1,7 +1,7 @@
 # DBMS Mini Project: Employee CRUD Web Application
 This is our DBMS mini project, it is Employee Management CRUD web application
 
-This project is made on .NET Framework Webforms, and manually written SQL commands on IDE Visual Studio 2017. Here for making the local Server and Database, I used MS Sql Server Management Studio 2018.
+This project is made on .NET Framework Webforms, and manually written SQL commands on IDE Visual Studio 2017. Here for making the local Server and Database, MS Sql Server Management Studio 2018 was used.
 
 In .NET Framework for web development, the ASP.NET Webforms can be used. Webforms have 2 parts: 
 1) .aspx file where Front-end is written.
