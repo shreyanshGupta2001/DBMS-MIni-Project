@@ -53,7 +53,7 @@ In .NET Framework for web development, the ASP.NET Webforms can be used. Webform
 
 ![](Screenshots/4%20Delete/DeleteOp.png)
 
-2- I clicked on the Edit link of 3rd record, EditEmpDetails.aspx opens, here we can clearly see the Delete button, after clicking on it, the record will get deleted
+2- Click on the Edit link of 3rd record, EditEmpDetails.aspx opens, here we can clearly see the Delete button, after clicking on it, the record will get deleted
 
 ![](Screenshots/4%20Delete/DeleteOp2.png)
 
@@ -62,7 +62,7 @@ In .NET Framework for web development, the ASP.NET Webforms can be used. Webform
 ![](Screenshots/4%20Delete/DeleteOp3.png)
 
 # SEARCH
-1- I also made one Search record button, which searches any record on the basis of ID given, for example I give ID as 2 here
+1- There is one Search record button, which searches any record on the basis of ID given, for example I give ID as 2 here
 
 ![](Screenshots/5%20Search/SearchOp.png)
 
